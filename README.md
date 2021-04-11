@@ -30,4 +30,7 @@ Here are some ideas to get you started:
 - 🐘 [Crypto and P vs. NP](https://jamvie.net/posts/2020/07/cryptography-and-p-vs.-np-a-basic-outline/)
 - 🐍 [RedPwn CTF 2020: Viper](https://jamvie.net/posts/2020/07/redpwnctf-2020-part-3/)
 
+
+<h2 align="center">Github Stats</h1>
+
 [![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
