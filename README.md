@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+
 [![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
