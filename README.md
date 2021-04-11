@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 [![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
 -->
 
 <h2 align="center">Favourite Blog Posts</h1>
@@ -37,9 +41,8 @@ Here are some ideas to get you started:
 
 <h2 align="center">Github Stats</h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+  </a>
+</p>
