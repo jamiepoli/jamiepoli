@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <h2 align="center">Favourite Blog Posts</h1>
@@ -33,11 +37,9 @@ Here are some ideas to get you started:
 
 <h2 align="center">Github Stats</h1>
 
-
-<p align="center">
-
-[![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
