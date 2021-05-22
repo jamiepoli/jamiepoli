@@ -7,7 +7,13 @@
 
 I go by many names: Jam, Vie, Jamie, or any combination of the 3. I like mathematical optimization, tech and sustainability, and network security. Catch me hacking at web problems with UBC CTF, Maple Bacon! 
 
-- 🔭 I’m currently working on **bug bounties and CTFs**
+<h2 align="center">Fun Facts</h2>
+- 🔭 &nbsp; I’m currently working on **my security internship**
+<br>
+- 🌱 &nbsp; I’m currently learning **mathematical optimization**
+<br>
+- 💬 &nbsp; Ask me about **all the movies I watched!**
+
 
 <!--
 **jamiepoli/jamiepoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,14 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Jam's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiepoli&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepoli&layout=compact&theme=tokyonight&hide=html)](https://github.com/anuraghazra/github-readme-stats" />
-  </a>
 -->
 
 <h2 align="center">Favourite Blog Posts</h1>
@@ -40,6 +38,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Github Stats</h1>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
