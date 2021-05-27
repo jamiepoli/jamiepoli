@@ -8,11 +8,13 @@
 I go by many names: Jam, Vie, Jamie, or any combination of the 3. I like mathematical optimization, tech and sustainability, and network security. Catch me hacking at web problems with UBC CTF, Maple Bacon! 
 
 <h2 align="center">Fun Facts</h2>
-- 🔭 &nbsp; I’m currently working on my security internship
+👩‍💻 &nbsp; I'm currently an ethical hacker with Rigel Kent Security
 <br>
-- 🌱 &nbsp; I’m currently learning mathematical optimization
+🌱 &nbsp; I’m currently learning about mathematical optimization and browser security
 <br>
-- 💬 &nbsp; Ask me about all the movies I watched!
+👾 &nbsp; I was previously an intern at Unity
+<br>
+💬 &nbsp; Ask me about all the movies I watched!
 
 
 <!--
