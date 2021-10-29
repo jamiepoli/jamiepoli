@@ -5,7 +5,7 @@
   <a href="https://ubcctf.github.io/">UBC CTF</a>
 </p>
 
-I go by many names: Jam, Vie, Jamie, or any combination of the 3. I like mathematical optimization, tech and sustainability, and network security. Catch me hacking at web problems with UBC CTF, Maple Bacon! 
+I go by many names: Jam, Vie, Jamie, or any combination of the 3. I like combinatorial optimization, tech and sustainability, and network/browser security. Catch me hacking at web problems with UBC CTF, Maple Bacon! 
 
 <h2 align="center">Fun Facts</h2>
 👩‍💻 &nbsp; I'm currently an ethical hacker with Rigel Kent Security
@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <h2 align="center">Favourite Blog Posts</h1>
 
 - 🐉 [DragonCTF 2020: Harmony Chat](https://jamvie.net/posts/2020/11/dragonctf-2020-harmony-chat/)
-- 🐘 [Crypto and P vs. NP](https://jamvie.net/posts/2020/07/cryptography-and-p-vs.-np-a-basic-outline/)
-- 🐍 [RedPwn CTF 2020: Viper](https://jamvie.net/posts/2020/07/redpwnctf-2020-part-3/)
+- 💙 [ASIS Quals 2021: Lovely Nonces](https://jamvie.net/posts/2021/10/asis-quals-2021-lovely-nonce/)
+- 3️⃣ [DEFCON Quals 2021: Threefactooorx](https://jamvie.net/posts/2021/04/def-con-quals-2021-getting-gud-threefactooorx/)
 
 
 <h2 align="center">Github Stats</h1>
