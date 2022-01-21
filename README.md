@@ -7,16 +7,6 @@
 
 I go by many names: Jam, Vie, Jamie, or any combination of the 3. I like combinatorial optimization, tech and sustainability, and network/browser security. Catch me hacking at web problems with UBC CTF, Maple Bacon! 
 
-<h2 align="center">Fun Facts</h2>
-👩‍💻 &nbsp; I'm currently an ethical hacker with Rigel Kent Security
-<br>
-🌱 &nbsp; I’m currently learning about mathematical optimization and browser security
-<br>
-👾 &nbsp; I was previously an intern at Unity
-<br>
-💬 &nbsp; Ask me about all the movies I watched!
-
-
 <!--
 **jamiepoli/jamiepoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,12 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h2 align="center">Favourite Blog Posts</h1>
-
-- 🐉 [DragonCTF 2020: Harmony Chat](https://jamvie.net/posts/2020/11/dragonctf-2020-harmony-chat/)
-- 💙 [ASIS Quals 2021: Lovely Nonces](https://jamvie.net/posts/2021/10/asis-quals-2021-lovely-nonce/)
-- 3️⃣ [DEFCON Quals 2021: Threefactooorx](https://jamvie.net/posts/2021/04/def-con-quals-2021-getting-gud-threefactooorx/)
 
 
 <h2 align="center">Github Stats</h1>
