@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Jamie.</h1>
+<h2 align="center">👋 Hello! I'm Vie.</h1>
 
 <p align="center">
   <a href="https://jamvie.net/">Website</a> •
