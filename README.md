@@ -5,4 +5,5 @@
   <a href="https://ubcctf.github.io/">UBC CTF</a>
 </p>
 
-Fucking around and finding out
+
+<p align="center">Hacc shit</p>
